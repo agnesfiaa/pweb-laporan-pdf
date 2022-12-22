@@ -8,7 +8,7 @@ $pdf->AddPage();
 // setting jenis font yang akan digunakan
 $pdf->SetFont('Arial','B',16);
 // mencetak string 
-$pdf->Cell(190,7,'SEKOLAH MENENGAH KEJURUSAN NEEGRI 3 JOMBANG',0,1,'C');
+$pdf->Cell(190,7,'SEKOLAH MENENGAH KEJURUAN NEEGRI 3 JOMBANG',0,1,'C');
 $pdf->SetFont('Arial','B',12);
 $pdf->Cell(190,7,'DAFTAR SISWA KELAS XII JURUSAN TEKNIK KOMPUTER DAN JARINGAN',0,1,'C');
 
